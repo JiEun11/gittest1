@@ -13,6 +13,9 @@
 <body>
     <div style="margin: 50px">
         <h1>Git Test</h1>
+        <OL>
+          <LI>첫번째 변경 진행함.</LI>
+        </OL>
     </div>
  </body>
 </html>
