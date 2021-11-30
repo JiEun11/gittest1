@@ -20,12 +20,7 @@
    <LI>첫번째 변경 진행함.</LI>
    <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
    <LI>두번째 변경 진행함.</LI>
-<<<<<<< HEAD
-   <li>tony 실습 1</li>
-=======
-   <LI>yoo 실습</LI>
-   <LI>yoo 실습2 </LI>
->>>>>>> 99f5be5ed4157d0479d97e4761ea3a3834af3fa8
+   <LI>yoo & tony 충돌 해결 </LI>
   </OL>
  </div>
 </body>
