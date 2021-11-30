@@ -16,6 +16,7 @@
           <LI>11.30.Tue JiEun Git practice </LI>
           <LI>11.30.Tue YooShin Git practice </LI>
           <LI>11.30.Tue Bundo tony Git practice </LI>
+          <LI>11.30.Tue JaySheen Git practice </LI>
       </OL>
   </DIV> 
 </body>
