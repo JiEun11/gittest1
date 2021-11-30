@@ -18,7 +18,8 @@
           <LI>두번째 변경 진행함.</LI>
           <LI>user1 실습 1</LI>
           <LI>user1 실습 2</LI>
-          <LI>user1 실습 3</LI>   ◀- 추가
+          <LI>user1 실습 3</LI>
+          <LI>user1 conflict 실습</LI>    ◀- 추가
       </OL>
   </DIV> 
 </body>
