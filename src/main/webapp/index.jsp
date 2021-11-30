@@ -10,9 +10,6 @@
 <title>깃 테스트 http://localhost:9091/index.jsp</title>
 </head>
 <body>
-   <LI>yoo 실습3 </LI>
-  </OL>
- </div>
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
