@@ -10,6 +10,7 @@
 <title>깃 테스트 http://localhost:9091/index.jsp</title>
 </head>
 <body>
+<<<<<<< Updated upstream
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
@@ -23,5 +24,20 @@
           <LI>user2 conflict 실습</LI> 
       </OL>
   </DIV> 
+=======
+ <div style="margin: 50px">
+  <h1>Git Test</h1>
+  <OL>
+   <LI>첫번째 변경 진행함.</LI>
+   <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
+   <LI>두번째 변경 진행함.</LI>
+<<<<<<< HEAD
+   <LI>yoo & tony 충돌 해결 </LI>
+=======
+   <LI>yoo & tony 충돌병합 </LI>
+>>>>>>> tony
+  </OL>
+ </div>
+>>>>>>> Stashed changes
 </body>
 </html>
