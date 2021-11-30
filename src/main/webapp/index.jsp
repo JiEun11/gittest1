@@ -22,6 +22,7 @@
    <LI>두번째 변경 진행함.</LI>
    <LI>yoo 실습</LI>
    <LI>yoo 실습2 </LI>
+   <LI>yoo 실습3 </LI>
   </OL>
  </div>
 </body>
