@@ -19,7 +19,8 @@
           <LI>user1 실습 1</LI>
           <LI>user1 실습 2</LI>
           <LI>user1 실습 3</LI>
-          <LI>user1 conflict 실습</LI>    ◀- 추가
+          <LI>user1 conflict 실습</LI> 
+          <LI>user2 conflict 실습</LI> 
       </OL>
   </DIV> 
 </body>
