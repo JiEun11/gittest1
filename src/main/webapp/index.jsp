@@ -24,7 +24,7 @@
    <li>tony 실습 1</li>
    <LI>yoo 실습</LI>
    <LI>yoo 실습2 </LI>
-   <LI>yoo & tony 충돌 해결 </LI>
+   <LI>yoo & tony & JiEun 충돌 해결 </LI>
   </OL>
  </div>
 </body>
