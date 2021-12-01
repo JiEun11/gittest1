@@ -10,7 +10,7 @@
 <title>깃 테스트 http://localhost:9091/index.jsp</title>
 </head>
 <body>
-  <DIV style="margin: 50px;">
+   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
           <LI>11.30.Tue JiEun Git practice </LI>
@@ -19,6 +19,12 @@
           <LI>11.30.Tue JaySheen Git practice </LI>
           <LI>11.31.Tue SungHyun Git practice </LI>
       </OL>
-  </DIV> 
+   </DIV>
+   <DIV style="margin: 50px;">
+      <OL>
+          <LI>12.01.Tue YooShin Git practice 2 </LI>   
+      </OL>
+  </DIV>
+
 </body>
 </html>
