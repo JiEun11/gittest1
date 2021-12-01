@@ -23,6 +23,7 @@
    <DIV style="margin: 50px;">
       <OL>
           <LI>12.01.Tue YooShin Git practice 2 </LI>   
+          <LI>12.01.Tue Tony Git practice 2 </LI>   
       </OL>
   </DIV>
 
