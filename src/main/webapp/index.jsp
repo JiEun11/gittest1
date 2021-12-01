@@ -13,7 +13,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>12.01.Wed DA Jay practice </LI>
+          <LI>12.01.Wed DS Jay practice </LI>
       </OL>
   </DIV> 
 </body>
