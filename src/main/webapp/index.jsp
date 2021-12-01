@@ -13,10 +13,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>11.30.Tue JiEun Git practice </LI>
-          <LI>11.30.Tue YooShin Git practice </LI>
-          <LI>11.30.Tue Bundo tony Git practice </LI>
-          <LI>11.30.Tue JaySheen Git practice </LI>
+          <LI>12.01.Wed DA Jay practice </LI>
       </OL>
   </DIV> 
 </body>
